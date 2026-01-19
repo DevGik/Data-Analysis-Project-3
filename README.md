@@ -1,3 +1,7 @@
+- [Project Objective](#project-objective)
+- [Dashboard](#dashbaord)
+
+
 # Project Objective
 The objective of this project is to analyze the company’s overall sales performance across different countries and products.
 The dashboard provides a comprehensive view of key business metrics such as revenue, units sold, cost, and profit.
@@ -23,6 +27,9 @@ This report was developed to answer the following key performance questions:
 -	What is the total cost incurred?
 -	What is the total profit earned?
 
+## Dashbaord
+
+![dashbaord](https://github.com/user-attachments/assets/fe30ebb7-735d-4636-b7f7-a6a9375910e2)
 
 
 -	What is the total revenue generated?
@@ -32,6 +39,9 @@ This report was developed to answer the following key performance questions:
 4.	Seasonality (Revenue by Month)
     - Revenue fluctuates across months, with notable peaks in specific months (as shown in the bar chart).
     - Indicates possible seasonal buying patterns.
+  
 
+
+![dashbaord](https://github.com/user-attachments/assets/6373d35f-cfc1-4fb0-90c8-d2feaa990dbc)
 
 
