@@ -5,6 +5,7 @@ It helps stakeholders understand where the company is performing well and where 
 
 ##Dataset Used
 
+<a href="https://github.com/DevGik/Data-Analysis-Project-3/blob/main/Dashboard%20Data%20Power%20BI.xlsx">Download Dataset Used</a>
 
 ## Questions (KPIs) the Dashboard Answers
 This report was developed to answer the following key performance questions:
